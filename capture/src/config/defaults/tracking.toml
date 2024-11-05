@@ -1,0 +1,16 @@
+[tracking]
+
+enable = true
+
+enn_pin = 21
+step_pin = 16
+dir_pin = 20
+
+tracking_direction = 1
+
+leeway_compensation = 180
+
+# experimental #1 6.55; experimental using 24 hour @16micro 0.195 steps/second
+tracking_speed = 0.19525
+
+cycle = 500

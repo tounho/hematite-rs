@@ -1,0 +1,7 @@
+[general]
+
+socket = "localhost:9001"
+
+tmp_path = "tmp"
+
+queue = 3

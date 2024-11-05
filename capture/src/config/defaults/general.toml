@@ -1,0 +1,11 @@
+[general]
+
+name = "default"
+
+module = "dummy"
+
+processor_url = "ws://localhost:9001"
+
+tmp_path = "tmp"
+
+queue = 60

@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "capture",
+    "processor",
+    "common"
+]

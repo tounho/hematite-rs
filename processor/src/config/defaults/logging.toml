@@ -1,0 +1,8 @@
+[logging]
+
+level = "debug"
+
+path = "log"
+
+size = 4
+count = 3
